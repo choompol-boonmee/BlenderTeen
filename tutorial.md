@@ -1,12 +1,12 @@
 
-1 <http://popiang.com/blender1/01-หน้าต่างสำคัญ_3D_ViewPort_Properties_Outliner.mov>
-1 <http://popiang.com/blender1/02-การเพิ่มและลดหน้าต่าง.mov>
-1 <http://popiang.com/blender1/03-การเปลี่ยนชนิดหน้าต่างในเบลนเดอร์.mov>
-1 <http://popiang.com/blender1/04-สามมิติสามแกน_X_Y_Z.mov>
-1 <http://popiang.com/blender1/05-การเปลี่ยนมุมมอง_Top-Bottom_Right-Left_Camera.mov>
-1 <http://popiang.com/blender1/06-การเปลี่ยนมุมมองแบบหมุน_Orbit.mov>
-1 <http://popiang.com/blender1/07-การซูมเข้าซูมออก_Zoom.mov>
-1 <http://popiang.com/blender1/08-การเลื่อนภาพ_Panning.mov>
+1. <http://popiang.com/blender1/01-หน้าต่างสำคัญ_3D_ViewPort_Properties_Outliner.mov>
+1. <http://popiang.com/blender1/02-การเพิ่มและลดหน้าต่าง.mov>
+1. <http://popiang.com/blender1/03-การเปลี่ยนชนิดหน้าต่างในเบลนเดอร์.mov>
+1. <http://popiang.com/blender1/04-สามมิติสามแกน_X_Y_Z.mov>
+1. <http://popiang.com/blender1/05-การเปลี่ยนมุมมอง_Top-Bottom_Right-Left_Camera.mov>
+1. <http://popiang.com/blender1/06-การเปลี่ยนมุมมองแบบหมุน_Orbit.mov>
+1. <http://popiang.com/blender1/07-การซูมเข้าซูมออก_Zoom.mov>
+1. <http://popiang.com/blender1/08-การเลื่อนภาพ_Panning.mov>
 1 <http://popiang.com/blender1/09-ชนิดของ_Object_Cube_UVSphere_Plane_Torus_Monkey.mov>
 1 <http://popiang.com/blender1/10-Object_กับ_Mode_ใน_3D_viewport.mov>
 1 <http://popiang.com/blender1/11-การเพิ่ม_Object_(add).mov>
