@@ -1,4 +1,4 @@
-[tutorial](tutorial.md)
+[วิดีโอสอน](tutorial.md)
 
 # โครงการ เบลนเดอร์ทีน Blender Teen (blenderteen.com)
 ## แนวคิด
