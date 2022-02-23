@@ -1,4 +1,4 @@
-<tutorial.md>
+tutorial[tutorial.md]
 
 # โครงการ เบลนเดอร์ทีน Blender Teen (blenderteen.com)
 ## แนวคิด
