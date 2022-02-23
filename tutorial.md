@@ -1,5 +1,5 @@
 
-- 01-หน้าต่างสำคัญ_3D_ViewPort_Properties_Outliner.mov
+- <http://popiang.com/blender1/01-หน้าต่างสำคัญ_3D_ViewPort_Properties_Outliner.mov>
 - 02-การเพิ่มและลดหน้าต่าง.mov
 - 03-การเปลี่ยนชนิดหน้าต่างในเบลนเดอร์.mov
 - 04-สามมิติสามแกน_X_Y_Z.mov
